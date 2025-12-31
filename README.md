@@ -1,4 +1,4 @@
-# To-Do List Application
+# TaskMaster-Pro
 
 A simple, responsive, and feature-rich to-do list application built with HTML, CSS, and JavaScript.
 
@@ -37,6 +37,7 @@ A simple, responsive, and feature-rich to-do list application built with HTML, C
 - Vanilla JavaScript (ES6+)
 - Font Awesome Icons
 - CSS Animations
+
 
 
 
